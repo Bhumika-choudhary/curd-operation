@@ -50,7 +50,7 @@ const Create = () => {
     <section className="create ">
       <div className="createmain">
         <div className='d-flex justify-content-between m-3'>
-          <h2>Create!</h2>
+          <h2>Create Employee Data!</h2>
           <Link to="/read">
               <button className='btn btn-primary'>Show Employee Data</button>
           </Link>
