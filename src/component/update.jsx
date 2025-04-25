@@ -77,7 +77,7 @@ const Update = () => {
 
     return (
         <div className=" m-3">
-            <h2>Update Data!</h2>
+            <h2>Update Employee Data!</h2>
             <form>
                 <div className="mb-3">
                     <label htmlFor="exampleInputFullName" className="form-label">
